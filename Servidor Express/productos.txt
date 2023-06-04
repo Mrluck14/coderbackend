@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Xiaomi redmi 6",
+    "description": "Celular chino",
+    "price": 3000,
+    "thumbnail": "../img/redmi6.webp",
+    "code": 1,
+    "stock": 25
+  },
+  {
+    "title": "Iphone 11",
+    "description": "Celular yankee",
+    "price": 10000,
+    "thumbnail": "../img/redmi6.webp",
+    "code": 2,
+    "stock": 5
+  },
+  {
+    "title": "Moto G 20",
+    "description": "Celular argentino",
+    "price": 3000,
+    "thumbnail": "../img/redmi6.webp",
+    "code": 3,
+    "stock": 10
+  }
+]
